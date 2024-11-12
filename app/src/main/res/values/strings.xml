@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Async Task</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="stop">Stop</string>
+    <string name="running">Running</string>
+    <string name="pre_execute">Pre Execute</string>
+    <string name="task_completed">Task completed!</string>
+    <string name="stop_status">Stopped</string>
+    <string name="wait_status">---</string>
+</resources>
